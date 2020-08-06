@@ -13,8 +13,9 @@
 <br />
 
 ---
-
-<img align="left" alt="SjamonDaal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SjamonDaal&show_icons=true&hide_border=true" />
+<p align="center">
+  <img alt="SjamonDaal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SjamonDaal&show_icons=true&hide_border=true" />
+</p>
 
 [website]: https://www.sdhd.nl
 [personal-webiste]: https://www.djamonstaal.nl
