@@ -1,7 +1,9 @@
 ### Hi there, I'm Djamon Staal - Co-Founder & Technical Engineer at [SDHD Hosts][website] 👋
 
-## I'm a SysAdmin with development skills!
+## Currently working on:
 - ⚡ Currently working on my [Personal Website][personal-webiste]
+- 🔧 Currently working on [Beheer.Zone][beheerzone-cp]
+- 👷 Maintaining the [SDHD Hosts][website] hosting infrastructure
 
 ### Connect with me:
 
@@ -19,6 +21,7 @@
 
 [website]: https://www.sdhd.nl
 [personal-webiste]: https://www.djamonstaal.nl
+[beheerzone-cp]: https://beheer.zone/
 [twitter]: https://twitter.com/SDHDHOSTS
 [instagram]: https://instagram.com/djamon.s
 [linkedin]: https://www.linkedin.com/in/djamons/
