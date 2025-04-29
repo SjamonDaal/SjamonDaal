@@ -1,4 +1,4 @@
-### Hi there, I'm Djamon Staal - Co-Founder & Technical Engineer at [SDHD Hosts][website] 👋
+### Hi there, I'm Djamon Staal 👋
 
 ## Currently working on:
 - ⚡ Currently working on my [Personal Website][personal-webiste]
