@@ -4,11 +4,6 @@
 - ⚡ Currently working on my [Personal Website][personal-webiste]
 - 🔧 Currently working on [Beheer.Zone][beheerzone-cp]
 
-### Connect with me:
-
-[<img align="left" alt="Personal Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/home.svg" />][personal-webiste]
-[<img align="left" alt="djamons | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 <br />
 
 ---
