@@ -3,7 +3,6 @@
 ## Currently working on:
 - ⚡ Currently working on my [Personal Website][personal-webiste]
 - 🔧 Currently working on [Beheer.Zone][beheerzone-cp]
-- 👷 Maintaining the [SDHD Hosts][website] hosting infrastructure
 
 ### Connect with me:
 
